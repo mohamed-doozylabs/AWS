@@ -1,0 +1,32 @@
+Virtualization
+--------------
+
+Type I Approach - Bare Metal Approach
+-------------------------------------
+
+-- Hypervisor
+-- Virtual Layer
+
+Type II Approach - Nested Approach
+----------------------------------
+
+-- Virtual Lab Creator
+-- VMWare Workstation
+-- VMWare Player
+-- VMWare Fusion
+
+
+Classifications of Virtualization
+---------------------------------
+
+1. Datacenter Virtualization (DCV)
+2. Network Virtualization
+3. Desktop Virtualization
+4. Cloud Management & Automation
+
+
+IP
+DNS
+VCenter Server
+Esxi
+VMM

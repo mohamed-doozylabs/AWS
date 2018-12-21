@@ -1,0 +1,14 @@
+Network
+-------
+
+VSphere Client
+Uplinks
+VNIC
+VM Portgroup
+
+-- Trunk ports
+-- Console ports
+-- Access ports
+
+
+Distributed switch

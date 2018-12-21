@@ -1,0 +1,27 @@
+File Operations
+---------------
+
+Read Ops
+--------
+more
+cat
+head
+tail
+less
+
+
+copy - cp sourcefile destinationfile
+move - mv sourcefile destinationfile
+
+Write Ops
+---------
+
+vi filename - open the file if it presents in the current directory otherwise create a new empty file and open it
+touch filename - to create a new file in the current directory
+
+i - to change the editor to insert mode
+
+esc:WQ - to save and quit
+
+vim filename - another latest editor
+nano filename - colorful editor

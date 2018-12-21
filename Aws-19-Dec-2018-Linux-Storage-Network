@@ -1,0 +1,45 @@
+Storage
+-------
+
+Local Storage
+Local Data Store(LDS)
+Remote Data Store(RDS)
+
+Thin disk
+Thick disk
+
+SAN
+NAS/NFS
+SCSI
+
+FCOE
+
+
+Network
+-------
+NIC - Network Interface Controller
+
+if-eth0
+if-eth1
+
+- nmtui
+- eth-tool
+- yast(command for SUSE)
+
+
+commands to remember
+--------------------
+ping
+tcpdump
+netstat
+telnet
+traceroute
+
+Installation
+------------
+
+$ rpm packagename - RedhatPackage Manager
+$ yum - yellowdog up
+dpkg
+apt-get
+wget

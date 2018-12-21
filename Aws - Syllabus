@@ -1,0 +1,24 @@
+Syllabus
+(prerequisites)
+1. Linux basics
+2. Virtualization Fundamentals - Private cloud - Public cloud
+
+(main)
+3. Intro to cloud
+4. AWS cloud - Intro
+5. Compute services - EC2
+6. Storage(block) - EBS
+7. Storage(object) - S3, Glacier
+8. Basics of Networking
+9. Networking - (VPC - Virtual Private Cloud)
+10. Peering Connections
+11. VPN - VPC
+12. Direct Connect
+13. Route S3
+14. Load Balancing
+15. Autoscaling
+16. Databases - RDS
+17. IAM, Aws Organization
+18. SSO, Authentications
+19. SNS, SQS(App Integration Services)
+20. Cloudwatch

@@ -1,0 +1,70 @@
+Linux
+******
+
+--> Fedora -- Redhat, CentOs, Amazon Linux
+--> Debian -- Ubuntu, Kubuntu, Kali Linux
+--> SUSE -- OpenSUSE
+
+
+Linux Vs Windows
+****************
+
+
+Booting
+
+1. BIOS - Basic I/O System
+
+    -- POST - Power-On Self-Test
+    -- CMOS - Complementary Metal-Oxide-Semiconductor
+    -- MBR - Master Boot Registry/Record
+
+2. Bootloader
+
+    -- LILO - LInux LOader
+    -- GRUB - GRand Unified Bootloader
+
+3. Kernel
+
+    -- OS
+
+4. Shell
+
+    -- Bourn Shell(sh)
+    -- Bourn Again Shell(Bash)
+    -- Korn Shell(K Shell)
+    -- T. Shell(Turbo Shell)
+
+    To check which shell you are working
+    $ echo $?
+    To change the Shell
+    $ chsh or $ chsh -l
+
+    Other commands
+    --------------
+    $ ls
+    $ls -l
+      type & permissions  size    O     G   filename
+      ------------------  ----  ----- ----- --------
+      drwxr--r--          1024  user1 user1 file1
+      -rwxr--r--          1024  user1 user1 file1
+      (1 - file type)
+      d - directory
+      - - reg file
+      l - link file
+      b - block file
+
+      (2-4 - owner)
+      (5-7 - group)
+      (8-10 - others)
+
+      permissions
+      -- Octal
+        -> r - 4 - read
+        -> w - 2 - write
+        -> x - 1 - execute
+        -> No permission - 0
+
+      -- Symbolic(+, -, =)
+         - chmod  o+rwx file1
+         - chmod g-r file1
+         - chmod g=0 file1
