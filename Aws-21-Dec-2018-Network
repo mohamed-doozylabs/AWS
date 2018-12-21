@@ -12,3 +12,11 @@ VM Portgroup
 
 
 Distributed switch
+
+Features of VMWare
+------------------
+
+1. VMotion
+2. DRS - Distributed resource scheduler
+3. HA - High Availability
+4. Ft
